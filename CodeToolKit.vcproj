@@ -188,6 +188,10 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
+				RelativePath=".\AppCaption.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\CodeToolKit.cpp"
 				>
 			</File>
@@ -197,6 +201,10 @@
 			</File>
 			<File
 				RelativePath=".\CodeToolKitView.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\ExplorerBar.cpp"
 				>
 			</File>
 			<File
@@ -223,12 +231,20 @@
 					/>
 				</FileConfiguration>
 			</File>
+			<File
+				RelativePath=".\XTPExplorerPane.cpp"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="Í·ÎÄ¼þ"
 			Filter="h;hpp;hxx;hm;inl;inc;xsd"
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
+			<File
+				RelativePath=".\AppCaption.h"
+				>
+			</File>
 			<File
 				RelativePath=".\CodeToolKit.h"
 				>
@@ -242,6 +258,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\ExplorerBar.h"
+				>
+			</File>
+			<File
 				RelativePath=".\MainFrm.h"
 				>
 			</File>
@@ -251,6 +271,10 @@
 			</File>
 			<File
 				RelativePath=".\stdafx.h"
+				>
+			</File>
+			<File
+				RelativePath=".\XTPExplorerPane.h"
 				>
 			</File>
 		</Filter>
@@ -290,5 +314,9 @@
 		</File>
 	</Files>
 	<Globals>
+		<Global
+			Name="RESOURCE_FILE"
+			Value="CodeToolKit.rc"
+		/>
 	</Globals>
 </VisualStudioProject>
