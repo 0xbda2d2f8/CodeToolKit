@@ -3,10 +3,10 @@
 // Used by CodeToolKit.rc
 //
 #define IDD_ABOUTBOX                100
-#define IDD_CODETOOLKIT_FORM			101
+#define IDD_CODETOOLKIT_FORM		101
 #define IDP_OLE_INIT_FAILED         100
 #define IDR_MAINFRAME               128
-#define IDR_CodeToolKitTYPE                129
+#define IDR_CodeToolKitTYPE         129
 #define IDB_BITMAP_ICONS            130
 #define IDR_PANE_OPTIONS            4000
 #define IDR_PANE_PROPERTIES         4001

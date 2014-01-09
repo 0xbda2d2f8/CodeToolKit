@@ -12,7 +12,7 @@ public:
 	virtual ~CExplorerBar();
 //Operations
 public:
-	void Create(CWnd *pParentWnd);
+	void Create(CWnd *pWndParent);
 //Implementation
 public:
 	void OnItemClick(UINT nID);

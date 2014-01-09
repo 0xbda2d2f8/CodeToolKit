@@ -4,6 +4,7 @@
 
 #pragma once
 
+#include "Resource.h"
 
 class CCodeToolKitView : public CFormView
 {
